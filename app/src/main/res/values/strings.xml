@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nsd Demo</string>
+    <string name="connect">Connect</string>
+    <string name="discover">Discover</string>
+    <string name="register">Register</string>
+    <string name="send">Send</string>
+    <string name="enter_text_to_send">enter text to send</string>
+    <string name="service_started">Service started - %s</string>
+    <string name="service_connected">Service Discovered - %s</string>
+    <string name="master_connection_status"> service started</string>
+    <string name="master_device">Master Device</string>
+    <string name="slave_device">Slave Device</string>
+    <string name="customer_mobile_number">Customer Mobile number : </string>
+    <string name="enter_mobile_number">Enter Mobile number : </string>
+
+</resources>
